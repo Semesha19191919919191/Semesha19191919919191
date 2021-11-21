@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Semesha19191919919191
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @Semesha
 
 
 <!---
